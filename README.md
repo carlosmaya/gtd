@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/carlosmaya/gtd.png?label=ready&title=Ready)](https://waffle.io/carlosmaya/gtd)
 ## GTD  =>  Getting things done
 
 #### ¿ Que és GTD ?
