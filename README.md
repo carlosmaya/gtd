@@ -33,7 +33,7 @@ GTD se basa en 5 acciones.
   * ¿Hay que delegarlo?
 
 3. Organiza. ( Organize )
-  * Categorizar y priorizar. Hay que decidir en donde va cada cosa, quiza establecer alguna fecha compromiso para terminarla,   * algún recordatorio y sobre todo decidir en que momento actuar.
+  * Categorizar y priorizar. Hay que decidir en donde va cada cosa, quiza establecer alguna fecha compromiso para terminarla, algún recordatorio y sobre todo decidir en que momento actuar.
 
 4. Reflexionar. ( Reflect ) 
   * Revisar la lista, limpiar lo que ya no aplica, actualizar las prioridades y determinar que es lo siguiente en lo que te vas a enfocar.
