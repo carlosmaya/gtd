@@ -1,5 +1,5 @@
 [![Task in Now!!](https://badge.waffle.io/carlosmaya/gtd.png?label=now&title=Now!!)](https://waffle.io/carlosmaya/gtd)
-## GTD  =>  Getting things done
+## GTD  =>  Getting Things Done
 
 #### ¿ Que és GTD ?
 
